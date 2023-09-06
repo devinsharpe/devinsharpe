@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-### Hi there 👋
-
-<!--
-**devinsharpe/devinsharpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
 # Hello! 👋🏽 I'm Devin Sharpe
 
 I'm a full stack web developer who is passionate about connecting users with good software and new experiences. I'm always excited to jump into a new codebase or design file and start on building out those experiences. I love seeing new features go from being standup ideas to valuable experiences for users. I currently work with Typescript, React, and NextJS for most of my professional and personal projects. Feel free to look around and explore some of my repositories, projects, and scraped ideas.
@@ -66,4 +48,3 @@ I undertook the development of a modern social media PWA with the aim of fosteri
 
 - View my porfolio, blog, & resume @ [devsharpe.io](https://www.devsharpe.io)
 - Posts and professional history on [linkedin](https://www.linkedin.com/in/devin-sharpe-8912b0191/)
->>>>>>> 2bacec3 (init commit)
