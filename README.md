@@ -42,7 +42,7 @@ I undertook the development of a modern social media PWA with the aim of fosteri
 ### Full Stack Software Engineer @ Priority1 POS
 
 - Effectively maintained and collaborated on a multitude of web applications, catering to both internal and client needs using React and Vue 2.
-- esigned and developed over 10 applications, utilizing a diverse range of technologies, and deploying them with services such as Vercel and AWS.
+- Designed and developed over 10 applications, utilizing a diverse range of technologies, and deploying them with services such as Vercel and AWS.
 
 ## 🌎 Find me online
 
