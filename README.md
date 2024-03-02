@@ -34,6 +34,11 @@ I undertook the development of a modern social media PWA with the aim of fosteri
 
 ## 💼 Employment History
 
+### Front End Software Engineer @ Telrite Holdings, Inc.
+
+-  Currently building and implementing a company-wide design system and UI library for simplifying cross-project DX.
+-  Refactoring legacy codebase to use updated frameworks and new frontend technologies.
+
 ### Front End Software Engineer @ The Washington Post
 
 - Successfully executed maintenance and integration of novel features into ad engineering and templating applications using React, AWS, and Express.
