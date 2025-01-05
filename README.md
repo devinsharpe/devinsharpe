@@ -12,32 +12,20 @@ I'm a full stack web developer who is passionate about connecting users with goo
 
 ## Top Projects
 
-### 🌸 Ikigai
+### TBA
 
-I started to become exhausted with managing my life and obligations with multiple apps, so I decided to explore creating a task and time management application. Ikigai allows users to manage life's many projects by logging time entries, create tasks, and collaborate with other team members. I took this opportunity to experiment with new technologies as well, such as, Vercel's edge functions and Meta AI's LLaMA 2 model.
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,vercel" />
-  </a>
-</p>
-
-### 🐦 Birb - Simple Social
-
-I undertook the development of a modern social media PWA with the aim of fostering genuine connections among individuals in a simpler and healthier manner. This platform allows users to freely share three text posts and one image per day, alleviating the burdens of projecting an artificially perfect online image. The project involved managing multiple databases, maintaining multiple apps within a monorepo, and engaging in cutting-edge experimentation at the edge, offering me the exhilarating learning experience I constantly seek.
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,vercel,prisma,tensorflow" />
-  </a>
-</p>
+- Something with my new lanuage love, [gleam](https://gleam.run)
 
 ## 💼 Employment History
 
+### Front End Software Engineer @ Strata Company 
+
+- Building out a new experience that enables marketers to connect with highly engaged direct-mail recipients. 
+
 ### Front End Software Engineer @ Telrite Holdings, Inc.
 
--  Currently building and implementing a company-wide design system and UI library for simplifying cross-project DX.
--  Refactoring legacy codebase to use updated frameworks and new frontend technologies.
+-  Built and implemented a company-wide design system and UI library for simplifying cross-project DX.
+-  Refactored legacy codebase to use updated frameworks and new frontend technologies.
 
 ### Front End Software Engineer @ The Washington Post
 
