@@ -4,11 +4,7 @@ I'm a full stack web developer who is passionate about connecting users with goo
 
 ## 👨🏽‍💻 Familiar Technologies
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,babel,css,django,docker,firebase,git,github,haskell,html,js,jest,mongodb,nextjs,nodejs,nuxtjs,postgres,prisma,react,redux,sass,tailwind,ts,vercel,vue" />
-  </a>
-</p>
+![Skills](https://skills-icons.vercel.app/api/icons?i=gleam,css,js,ts,nextjs,react,nodejs)
 
 ## Top Projects
 
