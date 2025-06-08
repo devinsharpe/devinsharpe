@@ -4,7 +4,7 @@ I'm a full stack web developer who is passionate about connecting users with goo
 
 ## 👨🏽‍💻 Familiar Technologies
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=gleam,css,js,ts,nextjs,react,nodejs)
+![Skills](https://skills-icons.vercel.app/api/icons?i=gleam,css,ts,nextjs,react,nodejs)
 
 ## Top Projects
 
@@ -14,24 +14,10 @@ I'm a full stack web developer who is passionate about connecting users with goo
 
 ## 💼 Employment History
 
-### Front End Software Engineer @ Strata Company 
-
-- Building out a new experience that enables marketers to connect with highly engaged direct-mail recipients. 
-
-### Front End Software Engineer @ Telrite Holdings, Inc.
-
--  Built and implemented a company-wide design system and UI library for simplifying cross-project DX.
--  Refactored legacy codebase to use updated frameworks and new frontend technologies.
-
-### Front End Software Engineer @ The Washington Post
-
-- Successfully executed maintenance and integration of novel features into ad engineering and templating applications using React, AWS, and Express.
-- Collaborated closely with product designers to implement cutting-edge ad formats and manage corporate concerns, like AWS budgeting and security.
-
-### Full Stack Software Engineer @ Priority1 POS
-
-- Effectively maintained and collaborated on a multitude of web applications, catering to both internal and client needs using React and Vue 2.
-- Designed and developed over 10 applications, utilizing a diverse range of technologies, and deploying them with services such as Vercel and AWS.
+### Front End Software Engineer @ [Strata Company](https://www.gostrata.com/) 
+### Front End Software Engineer @ [Telrite Holdings, Inc.](https://telrite.com/)
+### Front End Software Engineer @ [The Washington Post](https://www.washingtonpost.com/)
+### Full Stack Software Engineer @ [Priority1 POS](https://priority1-pos.com/?srsltid=AfmBOopM7HkpqFTpkJGPmvmywVgv5dMqrwYonCDFQtwwNt-wG1icfRmz)
 
 ## 🌎 Find me online
 
